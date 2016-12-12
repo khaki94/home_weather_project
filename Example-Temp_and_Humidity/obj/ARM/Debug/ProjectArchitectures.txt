@@ -1,0 +1,1 @@
+C:\Users\Ashan\Downloads\GrovePi-master\GrovePi-master\Software\CSharp\Samples\Example-Temp_and_Humidity\TempandHumid.csproj;arm
